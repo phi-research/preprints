@@ -10,14 +10,14 @@ For the full Planetary Health Informatics Lab roster (current and past members),
 
 | Author | Primary Affiliation | Contact | Papers |
 |--------|---------------------|---------|--------|
-| **Usman Nazir** | Planetary Health Informatics (PHI) Lab, NDORMS, University of Oxford | usman.nazir@ndorms.ox.ac.uk | AE for Climate-Sensitive Diseases; Flood Nowcasting |
-| **Arundhati Wuppalapati** | Department of Paediatrics, University of Oxford | arundhati.wuppalapati@paediatrics.ox.ac.uk | AE for Climate-Sensitive Diseases |
-| **Sina Rezaei** | Technical University of Munich (TUM) | sina.rezaei@tum.de | AE for Climate-Sensitive Diseases |
-| **Lais Azevedos** | Universidade Estadual de Campinas (UNICAMP), Brazil | l173455@dac.unicamp.br | AE for Climate-Sensitive Diseases |
-| **I-Han Cheng** | University College London (UCL) | i-han.cheng.24@ucl.ac.uk | AE for Climate-Sensitive Diseases |
+| **Usman Nazir** | Planetary Health Informatics (PHI) Lab, NDORMS, University of Oxford | usman.nazir@ndorms.ox.ac.uk | AlphaEarth Embeddings (Climate-Sensitive Diseases); Flood Nowcasting |
+| **Arundhati Wuppalapati** | Department of Paediatrics, University of Oxford | arundhati.wuppalapati@paediatrics.ox.ac.uk | AlphaEarth Embeddings (Climate-Sensitive Diseases) |
+| **Sina Rezaei** | Technical University of Munich (TUM) | sina.rezaei@tum.de | AlphaEarth Embeddings (Climate-Sensitive Diseases) |
+| **Lais Azevedos** | Universidade Estadual de Campinas (UNICAMP), Brazil | l173455@dac.unicamp.br | AlphaEarth Embeddings (Climate-Sensitive Diseases) |
+| **I-Han Cheng** | University College London (UCL) | i-han.cheng.24@ucl.ac.uk | AlphaEarth Embeddings (Climate-Sensitive Diseases) |
 | **Disha Gomathinayagam** | Blavatnik School of Government, University of Oxford | disha.gomathinayagam@bsg.ox.ac.uk | Flood Nowcasting |
 | **Muhammad Kamran** | PMIU Secretariat, Irrigation Department, Government of Pakistan | — | Flood Nowcasting |
-| **[Sara Khalid](https://www.ndorms.ox.ac.uk/team/sara-khalid)** *(Senior / Corresponding)* | PHI Lab, NDORMS, University of Oxford | sara.khalid@ndorms.ox.ac.uk | AE for Climate-Sensitive Diseases; Flood Nowcasting |
+| **[Sara Khalid](https://www.ndorms.ox.ac.uk/team/sara-khalid)** *(Senior / Corresponding)* | PHI Lab, NDORMS, University of Oxford | sara.khalid@ndorms.ox.ac.uk | AlphaEarth Embeddings (Climate-Sensitive Diseases); Flood Nowcasting |
 
 ---
 
