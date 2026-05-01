@@ -1,0 +1,28 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LaTeX build artefacts (in case sources are ever added)
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Local working copies / drafts
+drafts/
+working/
+
+# Secrets
+.env
+.env.local
+*.pem
+credentials.json
