@@ -2,7 +2,7 @@
 
 This repository hosts **pre-print PDFs** and accompanying lay-summary materials for manuscripts authored by the **Planetary Health Informatics Lab (PHI Lab)** at the University of Oxford that are under review or awaiting journal publication.
 
-It is the place to find the latest version of a paper before it appears in the journal of record. Once a manuscript is published, the corresponding code lives in the [`papers`](https://github.com/phi-research/papers) repository and the entry here is updated with the journal DOI.
+It is the place to find the latest version of a paper before it appears in the journal of record. Once a manuscript is published, the corresponding code lives in the [`models`](https://github.com/phi-research/models) repository and the entry here is updated with the journal DOI.
 
 ---
 
@@ -33,7 +33,7 @@ Please cite the arXiv version (DOI / arXiv ID will be added per-paper as soon as
 
 ## Companion Code
 
-When code accompanies a preprint, it lives in the [`papers`](https://github.com/phi-research/papers) repository under a folder named after the short title of the paper. A pointer is added to the row above once the code is released.
+When code accompanies a preprint, it lives in the [`models`](https://github.com/phi-research/models) repository under a folder named after the short title of the paper. A pointer is added to the row above once the code is released.
 
 ---
 
