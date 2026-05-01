@@ -18,7 +18,7 @@ The full list of **co-authors of the preprints in this repository** — lab memb
 
 | Year | Title | File | Status |
 |------|-------|------|--------|
-| 2026 | Autoencoders for Climate-Sensitive Diseases | [`AE_for_Climate_Sensitive_Diseases___arXiv.pdf`](AE_for_Climate_Sensitive_Diseases___arXiv.pdf) | Submitted to arXiv |
+| 2026 | AlphaEarth Embeddings for Climate-Sensitive Diseases | [`AE_for_Climate_Sensitive_Diseases___arXiv.pdf`](AE_for_Climate_Sensitive_Diseases___arXiv.pdf) | Submitted to arXiv |
 | 2026 | Nowcasting (climate–health time-series) | [`Nowcasting__arXiv.pdf`](Nowcasting__arXiv.pdf) | Submitted to arXiv |
 
 > Each row will be updated with an arXiv ID and a journal DOI once available.
